@@ -14,7 +14,6 @@ M.Sc. Computer Science (Data Science) @ RPTU Kaiserslautern | GPA 1.5
 ### 🔬 Featured Projects
 | Project | Tech | Highlight |
 |---|---|---|
-| [RAG Pipeline for Research Papers](#) | LangChain, LLaMA, Python | 80% accuracy, 60% effort reduction |
-| [VLM Memorization & Privacy](#) | PyTorch, QLoRA, LLaVA | GI-DQA attack on medical MRI data |
-| [LLaMA 3.2 Translation](#) | HuggingFace, QLoRA | +18% BLEU score |
-| [Cardiac Arrest Prediction](#) | XGBoost, Flask, React | 94% accuracy, full-stack deployment |
+| [RAG Pipeline for Research Papers](https://github.com/varunkarwa/extract-data-analytics-pipeline) | LangChain, LLaMA, Python | 80% accuracy, 60% effort reduction |
+| [VLM Memorization & Privacy](https://github.com/varunkarwa/memorization_in_vlms) | PyTorch, QLoRA, LLaVA | GI-DQA attack on medical MRI data |
+| [LLaMA 3.2 Translation](https://github.com/varunkarwa/Fine-tuning-LLama3.2) | HuggingFace, QLoRA | +18% BLEU score |
