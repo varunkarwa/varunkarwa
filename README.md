@@ -1,16 +1,20 @@
-## Hi there 👋
+# Varun Karwa
 
-<!--
-**varunkarwa/varunkarwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Computer Science (Data Science) @ RPTU Kaiserslautern | GPA 1.5
 
-Here are some ideas to get you started:
+**Research:** Privacy & Memorization in Vision-Language Models | PEFT | Adversarial ML  
+**Engineering:** React · TypeScript · FastAPI · LangChain · PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Kaiserslautern, Germany  
+📧 varunkamalkishorekarwa@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/varun-karwa)
+
+---
+
+### 🔬 Featured Projects
+| Project | Tech | Highlight |
+|---|---|---|
+| [RAG Pipeline for Research Papers](#) | LangChain, LLaMA, Python | 80% accuracy, 60% effort reduction |
+| [VLM Memorization & Privacy](#) | PyTorch, QLoRA, LLaVA | GI-DQA attack on medical MRI data |
+| [LLaMA 3.2 Translation](#) | HuggingFace, QLoRA | +18% BLEU score |
+| [Cardiac Arrest Prediction](#) | XGBoost, Flask, React | 94% accuracy, full-stack deployment |
